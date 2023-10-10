@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2023-10-10T09:36:23.451Z",
-    "end": "2023-10-10T09:36:23.912Z",
-    "duration": 461
+    "start": "2023-10-10T10:54:25.147Z",
+    "end": "2023-10-10T10:54:25.504Z",
+    "duration": 357
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
